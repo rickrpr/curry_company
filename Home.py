@@ -7,8 +7,8 @@ st.set_page_config(
 )
 
 #image_path = r'C:\Users\Ricardo\Documents\data_science\repos\ftc\logo.png'
-image = Image.open( '../logo.png' )
-st.sidebar.image(image, width=120)
+#image = Image.open( 'logo.png' )
+#st.sidebar.image(image, width=120)
 
 st.sidebar.markdown('# Cury Company')
 st.sidebar.markdown('## Fastest Delivery in Town')
